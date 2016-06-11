@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+
+	<klassenkollege vorname="Yehezkel">
+		<nachname>"Sivan"</nachname>
+		<groesse>184</groesse>
+		<haarfarbe>"dunkel braun"</haarfarbe>
+		<alter>18</alter>
+		<geschlecht>"m"</geschlecht>
+		<hobby>"zocken"</hobby>
+		<nationalitaet>"Israeli"</nationalitaet>
+	</klassenkollege>
+	
+	<klassenkollege vorname="Jakob">
+		<nachname>"Grieshofer"</nachname>
+		<groesse>165</groesse>
+		<haarfarbe>"braun"</haarfarbe>
+		<alter>19</alter>
+		<geschlecht>"male"</geschlecht>
+		<hobby>"fortgehen"</hobby>
+		<nationalitaet>"Österreicher"</nationalitaet>
+	</klassenkollege>
+	
+	<klassenkollege vorname="Patrick">
+		<nachname>"Wichert"</nachname>
+		<groesse>"180"</groesse>
+		<haarfarbe>"braun"</haarfarbe>
+		<alter>"22"</alter>
+		<geschlecht>"m"</geschlecht>
+		<hobby>"freunde treffen"</hobby>
+		<nationalitaet>"Österreicher"</nationalitaet>
+	</klassenkollege>
+	
+	<klassenkollege vorname="Chris">
+		<nachname>"Gabrail"</nachname>
+		<groesse>180</groesse>
+		<haarfarbe>"dunkle braun"</haarfarbe>
+		<alter>17</alter>
+		<geschlecht>"m"</geschlecht>
+		<hobby>"fahrrad fahren"</hobby>
+		<nationalitaet>"Ägypter"</nationalitaet>
+	</klassenkollege>
+	
+	<klassenkollege vorname="Muhammed-Hizir">
+		<nachname>"Kanyildiz"</nachname>
+		<groesse>183</groesse>
+		<haarfarbe>"braun"</haarfarbe>
+		<alter>17</alter>
+		<geschlecht>"m"</geschlecht>
+		<hobby>"schlafen"</hobby>
+		<nationalitaet>"Türke"</nationalitaet>
+	</klassenkollege>
+	
+</person>
